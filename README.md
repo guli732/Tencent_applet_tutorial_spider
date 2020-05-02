@@ -10,10 +10,10 @@
 - `article_introduce`：教程简介
 - `url`：详情链接
 ## 爬取过程展示
-![](https://github.com/guli732/Tencent_applet_tutorial_spider/raw/master/img/tencent_app_spider.png)
+![image](https://github.com/guli732/Tencent_applet_tutorial_spider/raw/master/img/tencent_app_spider.png)
 ## json结果展示
 - `app_tutorial.json`为保存的结果文件
-![](https://github.com/guli732/Tencent_applet_tutorial_spider/raw/master/img/tencent_app_spider_result.png)
+![image](https://github.com/guli732/Tencent_applet_tutorial_spider/raw/master/img/tencent_app_spider_result.png)
 ## 使用方法
 1. 下载该项目
 2. 安装scrapy库`pip3 install scrapy`
